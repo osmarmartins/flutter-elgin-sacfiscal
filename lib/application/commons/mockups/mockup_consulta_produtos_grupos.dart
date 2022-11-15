@@ -1,0 +1,80 @@
+List<Map<String, dynamic>> mockupConsultaProdutosGrupos = [
+  {
+    'title': 'Auto Atendimento',
+    'items': 14,
+    'color': '#724BB6',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Balanças',
+    'items': 10,
+    'color': '#FA4D3C',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Computadores',
+    'items': 15,
+    'color': '#7D80A9',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Etiquetas Eletrônicas',
+    'items': 15,
+    'color': '#7D80A9',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Gaveta',
+    'items': 15,
+    'color': '#7D80A9',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Impressoras de Etiquetas',
+    'items': 8,
+    'color': '#1BB790',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Impressoras Não Fiscais',
+    'items': 8,
+    'color': '#1BB790',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Leitores Fixos',
+    'items': 5,
+    'color': '#FE8B48',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Leitores de Mão',
+    'items': 4,
+    'color': '#2AC0F2',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Módulos Fiscais',
+    'items': 4,
+    'color': '#2AC0F2',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Monitor E-TOUCH2',
+    'items': 4,
+    'color': '#2AC0F2',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'PDV',
+    'items': 4,
+    'color': '#ED473B',
+    'img': 'm8-removebg-preview.png',
+  },
+  {
+    'title': 'Terminal de Consulta de Preços',
+    'items': 4,
+    'color': '#2AC0F2',
+    'img': 'm8-removebg-preview.png',
+  },
+];
