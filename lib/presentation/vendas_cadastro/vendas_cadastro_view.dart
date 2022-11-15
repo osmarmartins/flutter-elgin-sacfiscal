@@ -204,7 +204,7 @@ class _VendasCadastroViewState extends State<VendasCadastroView>
                                   ),
                                 ),
                                 SizedBox(
-                                  width: responsive.widthPercentual(25.3),
+                                  width: responsive.widthPercentual(26),
                                   child: TabBar(
                                     labelColor: Colors.white,
                                     indicatorColor: Colors.blue,
@@ -213,11 +213,11 @@ class _VendasCadastroViewState extends State<VendasCadastroView>
                                     controller: tabController,
                                     tabs: [
                                       Padding(
-                                        padding: EdgeInsets.all(4),
+                                        padding: EdgeInsets.all(2),
                                         child: Text('PESQUISA'),
                                       ),
                                       Padding(
-                                        padding: EdgeInsets.all(4),
+                                        padding: EdgeInsets.all(2),
                                         child: Text('GRUPOS'),
                                       ),
                                     ],

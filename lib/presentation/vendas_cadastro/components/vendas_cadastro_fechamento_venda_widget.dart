@@ -119,7 +119,7 @@ class _VendasCadastroFechamentoVendaWidgetState
                     ],
                   ),
                   SizedBox(
-                    height: 10,
+                    height: 20,
                   ),
                   Row(
                     children: [

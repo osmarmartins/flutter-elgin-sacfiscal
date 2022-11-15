@@ -168,7 +168,7 @@ class _VendasCadastroProdutosListaWidgetState
 
                                     Get.defaultDialog(
                                       title: produto.descricao!,
-                                      titlePadding: EdgeInsets.all(5),
+                                      titlePadding: EdgeInsets.all(1),
                                       onWillPop: () async {
                                         return false;
                                       },

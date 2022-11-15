@@ -12,15 +12,18 @@ class VendasCadastroProdutosGridWidget extends StatefulWidget {
   }) : super(key: key);
 
   @override
-  _VendasCadastroProdutosGridWidgetState createState() => _VendasCadastroProdutosGridWidgetState();
+  _VendasCadastroProdutosGridWidgetState createState() =>
+      _VendasCadastroProdutosGridWidgetState();
 }
 
-class _VendasCadastroProdutosGridWidgetState extends State<VendasCadastroProdutosGridWidget> {
+class _VendasCadastroProdutosGridWidgetState
+    extends State<VendasCadastroProdutosGridWidget> {
   VendasCadastroController controller = Get.find<VendasCadastroController>();
 
   @override
   Widget build(BuildContext context) {
-    ApplicationResponsiveWidget responsive = ApplicationResponsiveWidget(context);
+    ApplicationResponsiveWidget responsive =
+        ApplicationResponsiveWidget(context);
 
     return Container(
       padding: EdgeInsets.all(0),
