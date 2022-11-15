@@ -115,7 +115,7 @@ class _LauncherViewState extends State<LauncherView> {
                                 Text(
                                   'Último login em: ${DateFormat('dd/MM/yyyy hh:mm:ss').format(DateTime.parse(Get.find<ConfigruacoesEntity>().dataUltimoAcesso!).toLocal()).toString()}',
                                   style: TextStyle(
-                                    fontSize: 12,
+                                    fontSize: 10,
                                     fontWeight: FontWeight.bold,
                                     color: Colors.white,
                                   ),
